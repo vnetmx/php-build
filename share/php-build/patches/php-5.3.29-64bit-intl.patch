@@ -1,6 +1,3 @@
-Fix for PHP bug 48795 (https://bugs.php.net/bug.php?id=48795)
-This patch provides support for intl extension in PHP < 5.4.0 on x86_64
-diff -c -r php-5.3.29-orig/configure php-5.3.29/configure
 *** php-5.3.29-orig/configure	2014-08-14 04:27:27.000000000 +0900
 --- php-5.3.29/configure	2017-07-22 22:25:03.000000000 +0900
 ***************
